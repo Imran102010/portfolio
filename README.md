@@ -40,7 +40,7 @@ This mobile application, developed in **Kotlin**, allows users to access informa
 
 Clone this repository:
 ```bash
-git clone <repository_url>
+git clone https://github.com/Imran102010/portfolio.git
 ```
 
 Access the project folder:
